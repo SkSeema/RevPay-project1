@@ -134,8 +134,7 @@ Output:
 
 ## How to Run
 
-1. Create MySQL database  
-   revpay
+1. Create MySQL database revpay_db
 
 2. Execute SQL scripts from the sql folder
 
